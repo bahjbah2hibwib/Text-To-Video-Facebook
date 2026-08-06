@@ -1,17 +1,292 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Trang-1" id="51lMKAsFPzX1K7rpBPtA">
-    <mxGraphModel dx="659" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2102" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WruMN_BYKlI5l1NeJ52K-3" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-11" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WruMN_BYKlI5l1NeJ52K-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tải âm thanh từ video trên facebook" vertex="1">
-          <mxGeometry height="60" width="120" x="270" y="120" as="geometry" />
+          <mxGeometry height="60" width="120" x="170" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-5" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-6" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-4" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WruMN_BYKlI5l1NeJ52K-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Chuyển âm thanh thành văn bản" vertex="1">
-          <mxGeometry height="60" width="120" x="270" y="260" as="geometry" />
+          <mxGeometry height="60" width="120" x="170" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="1 fiile .txt" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-8" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="390" as="sourcePoint" />
+            <mxPoint x="230" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Kết quả" vertex="1">
+          <mxGeometry height="80" width="80" x="190" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Chuẩn bị" vertex="1">
+          <mxGeometry height="60" width="120" x="170" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-16" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="60" as="sourcePoint" />
+            <mxPoint x="230" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-18" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-21" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-20" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="130" />
+              <mxPoint x="370" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="Chi tiết" vertex="1">
+          <mxGeometry height="80" width="80" x="190" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-94" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-93" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-97" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WruMN_BYKlI5l1NeJ52K-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-98" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WruMN_BYKlI5l1NeJ52K-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-17" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Môi trường docker" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-19" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="WruMN_BYKlI5l1NeJ52K-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-25" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-26" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-27" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-30" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WruMN_BYKlI5l1NeJ52K-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-36" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WruMN_BYKlI5l1NeJ52K-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-37" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WruMN_BYKlI5l1NeJ52K-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-38" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WruMN_BYKlI5l1NeJ52K-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-39" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WruMN_BYKlI5l1NeJ52K-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-20" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Cấu trúc code&lt;div&gt;[ Theo nguyên lý SOLID ]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-41" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-24" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Entry Point" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-43" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-42" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-46" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WruMN_BYKlI5l1NeJ52K-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-47" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WruMN_BYKlI5l1NeJ52K-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-29" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Interfaces" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-50" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WruMN_BYKlI5l1NeJ52K-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-52" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WruMN_BYKlI5l1NeJ52K-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-32" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Models" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-54" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-53" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-57" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WruMN_BYKlI5l1NeJ52K-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-58" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WruMN_BYKlI5l1NeJ52K-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-33" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Services" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="734" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-76" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-75" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-78" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WruMN_BYKlI5l1NeJ52K-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-34" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Writers" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-80" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-79" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-99" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WruMN_BYKlI5l1NeJ52K-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-100" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WruMN_BYKlI5l1NeJ52K-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-35" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Config &amp;amp; Utils" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-40" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.6px; text-align: start; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.1);&quot;&gt;main.py&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-60" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-59" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-42" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.6px; text-align: start; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.1);&quot;&gt;i_downloader.py&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-62" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-61" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-44" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.6px; text-align: start; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.1);&quot;&gt;i_transcriber.py&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-64" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-63" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-45" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.6px; text-align: start; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.1);&quot;&gt;i_file_writer.py&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-66" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-65" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-49" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.6px; text-align: start; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.1);&quot;&gt;download_result.py&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="870" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-68" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-67" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-51" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.6px; text-align: start; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.1);&quot;&gt;transcription_result.py&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="870" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-70" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-69" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-53" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.6px; text-align: start; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.1);&quot;&gt;facebook_downloader.py&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="870" y="734" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-72" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-71" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-55" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.6px; text-align: start; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.1);&quot;&gt;whisper_transcriber.py&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="870" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-74" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-73" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-56" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.6px; text-align: start; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.1);&quot;&gt;subtitle_orchestrator.py&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="870" y="886" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-59" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt;các hàm tải video.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="1100" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-61" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt;hàm nhận dạng giọng nói.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="1100" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-63" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt;hàm ghi file kết quả.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="1100" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-65" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&#xa;&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(253, 246, 227); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Dataclass chứa thông tin file âm thanh đã tải.&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="180" x="1100" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-67" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt;Dataclass chứa kết quả văn bản thô và thời gian&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="1100" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-69" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt;Class thực thi &lt;/span&gt;&lt;code class=&quot;whitespace-pre-wrap&quot; style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(67 128 180 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; white-space: pre-wrap; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: color(srgb 0.380392 0.380392 0.380392 / 0.05); scrollbar-color: rgba(128, 128, 128, 0.4) rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-feature-settings: normal; font-variation-settings: normal; font-size: 0.9em; border-radius: 0.25rem; background-color: rgba(0, 0, 0, 0.1); padding: 0.125rem 0.25rem; color: rgb(163, 21, 21); text-align: start; word-break: break-word;&quot;&gt;i_downloader&lt;/code&gt;&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt; sử dụng thư viện &lt;/span&gt;&lt;code class=&quot;whitespace-pre-wrap&quot; style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(67 128 180 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; white-space: pre-wrap; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: color(srgb 0.380392 0.380392 0.380392 / 0.05); scrollbar-color: rgba(128, 128, 128, 0.4) rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-feature-settings: normal; font-variation-settings: normal; font-size: 0.9em; border-radius: 0.25rem; background-color: rgba(0, 0, 0, 0.1); padding: 0.125rem 0.25rem; color: rgb(163, 21, 21); text-align: start; word-break: break-word;&quot;&gt;yt-dlp&lt;/code&gt;&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="1100" y="734" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-71" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt;Class thực thi &lt;/span&gt;&lt;code class=&quot;whitespace-pre-wrap&quot; style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(67 128 180 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; white-space: pre-wrap; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: color(srgb 0.380392 0.380392 0.380392 / 0.05); scrollbar-color: rgba(128, 128, 128, 0.4) rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-feature-settings: normal; font-variation-settings: normal; font-size: 0.9em; border-radius: 0.25rem; background-color: rgba(0, 0, 0, 0.1); padding: 0.125rem 0.25rem; color: rgb(163, 21, 21); text-align: start; word-break: break-word;&quot;&gt;i_transcriber&lt;/code&gt;&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt; sử dụng &lt;/span&gt;&lt;code class=&quot;whitespace-pre-wrap&quot; style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(67 128 180 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; white-space: pre-wrap; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: color(srgb 0.380392 0.380392 0.380392 / 0.05); scrollbar-color: rgba(128, 128, 128, 0.4) rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-feature-settings: normal; font-variation-settings: normal; font-size: 0.9em; border-radius: 0.25rem; background-color: rgba(0, 0, 0, 0.1); padding: 0.125rem 0.25rem; color: rgb(163, 21, 21); text-align: start; word-break: break-word;&quot;&gt;openai-whisper&lt;/code&gt;&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="1100" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-73" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt;Class điều phối luồng công việc giữa Downloader và Transcriber.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="1100" y="886" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-84" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-83" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-75" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.6px; text-align: start; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.1);&quot;&gt;txt_writer.py&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-86" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-85" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-77" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.6px; text-align: start; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.1);&quot;&gt;srt_writer.py&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-88" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-87" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-79" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.6px; text-align: start; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.1);&quot;&gt;settings.py&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-90" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-89" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-81" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.6px; text-align: start; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.1);&quot;&gt;logger_factory.py&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-92" edge="1" parent="1" source="WruMN_BYKlI5l1NeJ52K-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WruMN_BYKlI5l1NeJ52K-91" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-82" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.6px; text-align: start; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.1);&quot;&gt;path_utils.py&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-83" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt;Class thực thi &lt;/span&gt;&lt;code class=&quot;whitespace-pre-wrap&quot; style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(67 128 180 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; white-space: pre-wrap; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: color(srgb 0.380392 0.380392 0.380392 / 0.05); scrollbar-color: rgba(128, 128, 128, 0.4) rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-feature-settings: normal; font-variation-settings: normal; font-size: 0.9em; border-radius: 0.25rem; background-color: rgba(0, 0, 0, 0.1); padding: 0.125rem 0.25rem; color: rgb(163, 21, 21); text-align: start; word-break: break-word;&quot;&gt;i_file_writer&lt;/code&gt;&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt; để ghi file &lt;/span&gt;&lt;code class=&quot;whitespace-pre-wrap&quot; style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(67 128 180 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; white-space: pre-wrap; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: color(srgb 0.380392 0.380392 0.380392 / 0.05); scrollbar-color: rgba(128, 128, 128, 0.4) rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-feature-settings: normal; font-variation-settings: normal; font-size: 0.9em; border-radius: 0.25rem; background-color: rgba(0, 0, 0, 0.1); padding: 0.125rem 0.25rem; color: rgb(163, 21, 21); text-align: start; word-break: break-word;&quot;&gt;.txt&lt;/code&gt;&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="1100" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-85" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt;Class thực thi &lt;/span&gt;&lt;code class=&quot;whitespace-pre-wrap&quot; style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(67 128 180 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; white-space: pre-wrap; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: color(srgb 0.380392 0.380392 0.380392 / 0.05); scrollbar-color: rgba(128, 128, 128, 0.4) rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-feature-settings: normal; font-variation-settings: normal; font-size: 0.9em; border-radius: 0.25rem; background-color: rgba(0, 0, 0, 0.1); padding: 0.125rem 0.25rem; color: rgb(163, 21, 21); text-align: start; word-break: break-word;&quot;&gt;i_file_writer&lt;/code&gt;&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt; để ghi file &lt;/span&gt;&lt;code class=&quot;whitespace-pre-wrap&quot; style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(67 128 180 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; white-space: pre-wrap; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: color(srgb 0.380392 0.380392 0.380392 / 0.05); scrollbar-color: rgba(128, 128, 128, 0.4) rgba(0, 0, 0, 0); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-feature-settings: normal; font-variation-settings: normal; font-size: 0.9em; border-radius: 0.25rem; background-color: rgba(0, 0, 0, 0.1); padding: 0.125rem 0.25rem; color: rgb(163, 21, 21); text-align: start; word-break: break-word;&quot;&gt;.srt&lt;/code&gt;&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="1100" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-87" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt;Đọc biến môi trường và cấu hình hằng số.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="1100" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-89" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt;Khởi tạo và cấp phát logger cho từng module.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="1100" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-91" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(97, 97, 97); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(253, 246, 227);&quot;&gt;Chuyên xử lý logic đường dẫn thư mục, dọn dẹp file rác.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="1100" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-93" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.6px; text-align: start; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.1);&quot;&gt;Dockerfile&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-95" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.6px; text-align: start; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.1);&quot;&gt;docker-compose.yml&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="670" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WruMN_BYKlI5l1NeJ52K-96" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(163, 21, 21); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.6px; text-align: start; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.1);&quot;&gt;requirements.txt&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="670" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
